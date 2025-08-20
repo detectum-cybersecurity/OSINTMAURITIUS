@@ -370,10 +370,8 @@ Special thanks to the cybersecurity community and open-source contributors who h
 
 **🕵️‍♂️ Detectum-OSINT - Empowering Cybersecurity Professionals Worldwide**
 
-()
-
-
 
 *Developed with ❤️ in the Republic of Mauritius*
+
 
 
