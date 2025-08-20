@@ -190,7 +190,7 @@ Detectum-OSINT/
 ## 📞 Support and Contact
 
 ### Technical Support
-- **Email**: support@detectum.mu
+- **Email**: v@riyaai.com
 - **Documentation**: Comprehensive technical guides
 - **GitHub**: Professional issue tracking and support
 
@@ -237,3 +237,4 @@ This tool is ready for immediate deployment and represents the pinnacle of profe
 
 *Developed with ❤️ in the Republic of Mauritius by Vishal Coodye*  
 *Copyright (c) 2025 Detectum Cybersecurity - All Rights Reserved*
+
