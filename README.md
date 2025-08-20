@@ -365,10 +365,15 @@ Special thanks to the cybersecurity community and open-source contributors who h
 
 - **Website**: [www.detectum.it.com](https://www.detectum.it.com)
 - **GitHub**: [detectum-cybersecurity](https://github.com/detectum-cybersecurity)
-
+- **Donate**: [www.paypal.com](https://www.paypal.com/ncp/payment/2R65EQMNCPEMQ)
 ---
 
 **🕵️‍♂️ Detectum-OSINT - Empowering Cybersecurity Professionals Worldwide**
 
+()
+
+
+
 *Developed with ❤️ in the Republic of Mauritius*
+
 
