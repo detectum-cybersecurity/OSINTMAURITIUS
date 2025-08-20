@@ -659,21 +659,19 @@ mypy detectum_osint.py
 
 - **Email**: support@detectum.mu
 - **GitHub Issues**: [Report Issues](https://github.com/detectum-cybersecurity/detectum-osint/issues)
-- **Documentation**: [Full Documentation](https://docs.detectum.mu)
+- **Documentation**: [Full Documentation](https://detectum.it.com/documents/PUBLICATIONS/osint)
 
 ### Business Inquiries
 
 - **Email**: info@detectum.mu
-- **Phone**: +230 XXX XXX XXX
 - **Address**: Republic of Mauritius
-- **Website**: [www.detectum.mu](https://www.detectum.mu)
+- **Website**: [www.detectum.it.com](https://www.detectum.it.com)
 
 ### Community
 
-- **LinkedIn**: [Detectum Cybersecurity](https://linkedin.com/company/detectum-cybersecurity)
-- **Twitter**: [@DetectumCyber](https://twitter.com/DetectumCyber)
+- **LinkedIn**: [Detectum Cybersecurity][(https://www.linkedin.com/in/r-i-y-a-ai-53a5a1b)
 - **GitHub**: [detectum-cybersecurity](https://github.com/detectum-cybersecurity)
-
+- **LinkedIn**: [Paypal Donation](https://www.paypal.com/ncp/payment/2R65EQMNCPEMQ)
 ---
 
 ## License
@@ -687,3 +685,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **🕵️‍♂️ Detectum-OSINT - Empowering Cybersecurity Professionals Worldwide**
 
 *Developed with ❤️ in the Republic of Mauritius by Vishal Coodye*
+
