@@ -35,15 +35,15 @@
 - **Penetration Testing & Security Audits**
 
 **Location**: Republic of Mauritius  
-**Website**: [www.detectum.mu](https://www.detectum.mu)  
-**Contact**: info@detectum.mu
+**Website**: [www.detectum.it.com](https://www.detectum.it.com)  
+**Contact**: v@riyaai.com
 
 ---
 
 ## 👨‍💻 Developer
 
 **Vishal Coodye**  
-*Senior Cybersecurity Engineer & OSINT Specialist*  
+*AI Developer * Software Engineer*  
 *Detectum Cybersecurity, Republic of Mauritius*
 
 ---
@@ -322,12 +322,11 @@ While this tool is developed exclusively by Vishal Coodye for Detectum Cybersecu
 
 - **Email**: support@detectum.mu
 - **GitHub Issues**: [Report Issues](https://github.com/detectum-cybersecurity/detectum-osint/issues)
-- **Documentation**: [Full Documentation](https://docs.detectum.mu)
+- **Documentation**: [Full Documentation]([https://docs.detectum.it.com](https://detectum.it.com/documents/PUBLICATIONS/osint)
 
 ### Business Inquiries
 
-- **Email**: info@detectum.mu
-- **Phone**: +230 XXX XXX XXX
+- **Email**: v@riyaai.com
 - **Address**: Republic of Mauritius
 
 ---
@@ -364,9 +363,7 @@ Special thanks to the cybersecurity community and open-source contributors who h
 
 ## 📱 Social Media
 
-- **Website**: [www.detectum.mu](https://www.detectum.mu)
-- **LinkedIn**: [Detectum Cybersecurity](https://linkedin.com/company/detectum-cybersecurity)
-- **Twitter**: [@DetectumCyber](https://twitter.com/DetectumCyber)
+- **Website**: [www.detectum.it.com](https://www.detectum.it.com)
 - **GitHub**: [detectum-cybersecurity](https://github.com/detectum-cybersecurity)
 
 ---
@@ -374,3 +371,4 @@ Special thanks to the cybersecurity community and open-source contributors who h
 **🕵️‍♂️ Detectum-OSINT - Empowering Cybersecurity Professionals Worldwide**
 
 *Developed with ❤️ in the Republic of Mauritius*
+
