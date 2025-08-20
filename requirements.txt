@@ -1,0 +1,4 @@
+aiohttp>=3.8.0
+asyncio>=3.4.3
+pathlib2>=2.3.7
+typing-extensions>=4.0.0
