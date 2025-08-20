@@ -31,8 +31,8 @@ setup(
     project_urls={
         "Bug Reports": "https://github.com/detectum-cybersecurity/detectum-osint/issues",
         "Source": "https://github.com/detectum-cybersecurity/detectum-osint",
-        "Documentation": "https://docs.detectum.mu",
-        "Company Website": "https://www.detectum.mu",
+        "Documentation": "https://detectum.it.com/documents/PUBLICATIONS/osint/",
+        "Company Website": "https://www.detectum.it.com",
     },
     packages=find_packages(),
     classifiers=[
@@ -110,11 +110,12 @@ setup(
     project_name="Detectum-OSINT",
     organization="Detectum Cybersecurity",
     location="Republic of Mauritius",
-    website="https://www.detectum.mu",
+    website="https://www.detectum.it.com",
     # Security classification
     security_classification="Unclassified",
     intended_use="Cybersecurity investigations, digital forensics, threat intelligence",
     # Contact information
-    support_email="support@detectum.mu",
-    business_email="info@detectum.mu",
+    support_email="v@riyaai.com",
+    business_email="v@riyaai.com",
 )
+
