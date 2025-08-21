@@ -320,7 +320,7 @@ While this tool is developed exclusively by Vishal Coodye for Detectum Cybersecu
 
 ### Technical Support
 
-- **Email**: support@detectum.mu
+- **Email**: v@riyaai.com
 - **GitHub Issues**: [Report Issues](https://github.com/detectum-cybersecurity/detectum-osint/issues)
 - **Documentation**: [Full Documentation]([https://docs.detectum.it.com](https://detectum.it.com/documents/PUBLICATIONS/osint)
 
@@ -372,6 +372,7 @@ Special thanks to the cybersecurity community and open-source contributors who h
 
 
 *Developed with ❤️ in the Republic of Mauritius*
+
 
 
 
