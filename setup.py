@@ -104,7 +104,7 @@ setup(
     zip_safe=False,
     # Additional metadata
     maintainer="Vishal Coodye",
-    maintainer_email="vishal.coodye@detectum.mu",
+    maintainer_email="v@riyaai.com",
     download_url="https://github.com/detectum-cybersecurity/detectum-osint/archive/v1.0.0.tar.gz",
     # Project information
     project_name="Detectum-OSINT",
@@ -118,4 +118,5 @@ setup(
     support_email="v@riyaai.com",
     business_email="v@riyaai.com",
 )
+
 
