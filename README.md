@@ -4,7 +4,7 @@
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Made in Mauritius](https://img.shields.io/badge/Made%20in-Mauritius-green.svg)](https://mauritius.govmu.org/)
+[![Made in Mauritius](https://img.shields.io/badge/Made%20in-Mauritius-green.svg)](https://police.govmu.org/police/?page_id=5779)
 
 ---
 
@@ -372,6 +372,7 @@ Special thanks to the cybersecurity community and open-source contributors who h
 
 
 *Developed with ❤️ in the Republic of Mauritius*
+
 
 
 
